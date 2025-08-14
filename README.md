@@ -1,8 +1,8 @@
 # wifi_acl.sh
 
-<h1 align="center">
+<h2 align="center">
   🚀 WiFi ACL & Deauth Automation Script 🚀
-</h1>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-Script-blue?logo=gnu-bash&logoColor=white">
